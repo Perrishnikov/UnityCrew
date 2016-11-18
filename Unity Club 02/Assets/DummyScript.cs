@@ -9,6 +9,7 @@ public class DummyScript : MonoBehaviour
 	{
 		Debug.Log("Hello World!");
 		Debug.Log("This is another log");
+        Debug.Log("Chris was here.");
 	}
 
 	// Update is called once per frame
